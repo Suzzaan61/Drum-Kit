@@ -16,15 +16,15 @@ footer {
   font-family: sans-serif;
 }
 
-.w {
+.l {
   background-image: url(images/crash.png);
 }
 
-.a {
+.k {
   background-image: url(images/kick.png);
 }
 
-.s {
+.j {
   background-image: url(images/snare.png);
 }
 
@@ -32,15 +32,15 @@ footer {
   background-image: url(images/tom1.png);
 }
 
-.j {
+.s {
   background-image: url(images/tom2.png);
 }
 
-.k {
+.a {
   background-image: url(images/tom3.png);
 }
 
-.l {
+.w {
   background-image: url(images/tom4.png);
 }
 
